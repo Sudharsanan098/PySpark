@@ -17,10 +17,5 @@ Each day focuses on a new PySpark concept with a dataset and implementation exam
 - **MLlib tasks (Day 16–18):** Feature engineering, decision tree, and ML pipeline.  
 - Code is written for **Google Colab / Jupyter Notebook** for easy execution.  
 
----
 
-## ⚡ Running the Project  
-1. Clone the repository:  
-   ```bash
-   https://github.com/sivasurya681/PySpark
 
