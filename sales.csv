@@ -1,0 +1,7 @@
+order_id,customer_id,product,quantity,price
+1,101,Laptop,1,60000
+2,102,Mobile,2,15000
+3,103,Tablet,3,12000
+4,104,Headphones,5,2000
+5,105,Laptop,2,58000
+6,106,Mobile,1,18000

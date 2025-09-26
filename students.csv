@@ -1,0 +1,6 @@
+id,name,dob,marks,city,grade
+1,John,2000-05-14,85.0,London,A
+2,Priya,1999-09-21,,Chennai,B
+3,,2001-02-11,74.0,Mumbai,C
+4,Alex,,91.0,,A
+5,Meena,2000-12-25,66.0,Delhi,

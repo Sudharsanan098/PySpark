@@ -1,0 +1,11 @@
+id,dept,salary,age,attrition
+1,HR,40000,25,Yes
+2,IT,60000,30,No
+3,Finance,50000,28,No
+4,HR,42000,26,Yes
+5,IT,65000,35,No
+6,Finance,52000,40,No
+7,IT,58000,32,Yes
+8,HR,41000,29,Yes
+9,Finance,49000,38,No
+10,IT,70000,45,No
